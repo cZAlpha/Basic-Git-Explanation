@@ -9,16 +9,22 @@ Open a terminal on your computer.
 cd to the directory where you keep your projects. This may be your VS Code projects, Pycharm projects, etc. 
 
 ## Step 3
-Use pwd to ensure you are in the right directory.
+Use pwd to ensure you are in the right directory. Keep that terminal open.
 
 ## Step 4
 Go to Github and navigate to your target project, the one you want to download.
 
 ## Step 5
 Click the green "<> Code" carrot dropdown, and hit the copy button for the link listed under "Clone"
-![Step 5 Image]([image link](https://github.com/cZAlpha/Basic-Git-Explanation/blob/main/githubcloneimage.png))
+
+
+
+![Step 5 Image](https://github.com/cZAlpha/Basic-Git-Explanation/blob/main/githubcloneimage.png)
+
+
 
 ## Step 6
-Type the following command to download the target project from Github:
+Type the following command into the same terminal from step 3 to download the target project from Github:
 
 ### git clone <pasted link from step 5>
+
