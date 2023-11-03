@@ -16,7 +16,7 @@ Go to Github and navigate to your target project, the one you want to download.
 
 ## Step 5
 Click the green "<> Code" carrot dropdown, and hit the copy button for the link listed under "Clone"
-![Step 5 Image](image link)
+![Step 5 Image]([image link](https://github.com/cZAlpha/Basic-Git-Explanation/blob/main/githubcloneimage.png))
 
 ## Step 6
 Type the following command to download the target project from Github:
